@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+  <rect width="1200" height="80" rx="12" fill="#0b3d2e"/>
+  <rect x="32" y="24" width="6" height="32" rx="3" fill="#7ce0b3"/>
+  <text x="56" y="51" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">Key Metrics</text>
+</svg>

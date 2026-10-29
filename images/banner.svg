@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3d2e"/><stop offset="1" stop-color="#11573f"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="16" fill="url(#g)"/>
+  <g opacity="0.12" stroke="#7ce0b3" stroke-width="2" fill="none">
+    <circle cx="1040" cy="150" r="120"/><circle cx="1040" cy="150" r="170"/><circle cx="1040" cy="150" r="220"/>
+  </g>
+  <g transform="translate(1040,150) scale(1.4) translate(-51,-48)" fill="none" stroke="#7ce0b3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M32 62 C14 62 10 40 26 35 C26 18 47 12 51 26 C55 12 76 18 76 35 C92 40 88 62 70 62 Z"/>
+  <path d="M32 62 V80 H70 V62"/>
+  <path d="M32 71 H70"/>
+</g>
+  <text x="64" y="112" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="3" fill="#7ce0b3">PYTHON · TIME SERIES · MACHINE LEARNING</text>
+  <text x="64" y="170" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Restaurant Demand Forecasting</text>
+  <text x="64" y="215" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#a7c9b8">How many covers tomorrow? Forecasting daily demand for 800+ restaurants</text>
+  <rect x="64" y="240" width="80" height="4" rx="2" fill="#7ce0b3"/>
+</svg>
