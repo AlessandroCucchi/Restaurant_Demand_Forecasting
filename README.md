@@ -7,7 +7,7 @@
 
 [Background](#project-background) · [Key Metrics](#key-metrics) · [Summary](#executive-summary) · [Insights](#insights-deep-dive) · [Recommendations](#recommendations) · [Repository](#repository-and-how-to-run)
 
-> Daily forecasts of covers for **829 restaurants**, from 16 months of point-of-sale data and online reservations. Demand is volatile (63% of restaurants move by more than half of their average day) and only **~21%** of covers are booked online. A gradient boosting model brings the forecast error from **41.9%** ("same as last week") to **31.8%**, cutting the covers misplanned per restaurant per week by **24%** and the food prepared and not served by **45%**.
+> Daily forecasts of covers for **829 restaurants**, from 16 months of point-of-sale data and online reservations. Demand is volatile (63% of restaurants move by more than half of their average day) and only **~21%** of covers are booked online. A gradient boosting model brings the forecast error from **41.9%** ("same as last week") to **31.8%**, cutting the covers misplanned per restaurant per week by 24% (−9% vs the best simple rule).
 
 <a id="project-background"></a>
 [![Project Background](images/h_background.svg)](images/h_background.svg)
@@ -24,7 +24,7 @@ This project uses daily covers from a point-of-sale system and reservations from
 <a id="key-metrics"></a>
 [![Key Metrics](images/h_metrics.svg)](images/h_metrics.svg)
 
-[![Key metrics: 24% fewer covers misplanned, 45% less food prepared and not served, 21% of covers booked online, Saturday 1.6x Monday](images/kpi_cards.svg)](images/kpi_cards.svg)
+[![Key metrics: 24% fewer covers misplanned, 31.8% forecast error vs 41.9%, 21% of covers booked online, Saturday 1.6x Monday](images/kpi_cards.svg)](images/kpi_cards.svg)
 
 <a id="executive-summary"></a>
 [![Executive Summary](images/h_summary.svg)](images/h_summary.svg)
